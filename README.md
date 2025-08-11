@@ -82,6 +82,18 @@ Academic-Journal-Recommendation/
 - **Étudiants** : Identifier les revues pertinentes pour leurs recherches
 - **Institutions académiques** : Optimiser les stratégies de publication
 
+## 🎯 interfaces
+
+1. 
+<img width="1387" height="669" alt="Rec_sys1" src="https://github.com/user-attachments/assets/dc6df802-b7d8-40db-bc15-3d565c7a0af3" />
+
+2.
+<img width="1383" height="820" alt="Rec_sys3" src="https://github.com/user-attachments/assets/2d8944ea-6215-4587-be27-fe096cb73018" />
+
+3.
+<img width="1387" height="777" alt="Rec_sys2" src="https://github.com/user-attachments/assets/598e5a8b-b3e0-460d-8726-e0eb5c1933bd" />
+
+
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à :
